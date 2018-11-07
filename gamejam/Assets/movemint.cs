@@ -7,6 +7,8 @@ public class movemint : MonoBehaviour {
     public float turnspeed;
     public controler controller;
     Vector3 desierv;
+    public float height;
+
     public float drag;
     float horizontal;
     float vertical;
